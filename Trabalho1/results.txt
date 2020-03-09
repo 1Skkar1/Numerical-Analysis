@@ -1,0 +1,49 @@
+Exercício 1:
+
+Erro = 1e-08 | Número de termos somados da série: 11 | Valor aproximado de S = 9.8696043416669621
+Erro = 1e-09 | Número de termos somados da série: 12 | Valor aproximado de S = 9.8696043878921049
+Erro = 1e-10 | Número de termos somados da série: 14 | Valor aproximado de S = 9.8696044004219967
+Erro = 1e-11 | Número de termos somados da série: 15 | Valor aproximado de S = 9.8696044009377335
+Erro = 1e-12 | Número de termos somados da série: 17 | Valor aproximado de S = 9.8696044010813999
+Erro = 1e-13 | Número de termos somados da série: 18 | Valor aproximado de S = 9.8696044010875212
+Erro = 1e-14 | Número de termos somados da série: 20 | Valor aproximado de S = 9.8696044010892585
+Erro = 1e-15 | Número de termos somados da série: 21 | Valor aproximado de S = 9.8696044010893349
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Exercício 2:
+
+Erro = 1e-08 | Número de termos somados da série: 10000    | Valor aproximado de S = 9.86960446107127076231790852034464
+Erro = 1e-09 | Número de termos somados da série: 31622    | Valor aproximado de S = 9.86960440708889308325524325482547
+Erro = 1e-10 | Número de termos somados da série: 100000   | Valor aproximado de S = 9.86960440168911645741900429129601
+Erro = 1e-11 | Número de termos somados da série: 316227   | Valor aproximado de S = 9.86960440102921410243652644567192
+Erro = 1e-12 | Número de termos somados da série: 1000000  | Valor aproximado de S = 9.86960440109500325434055412188172
+Erro = 1e-13 | Número de termos somados da série: 3162277  | Valor aproximado de S = 9.86960440108831171812653337838128
+Erro = 1e-14 | Número de termos somados da série: 10000000 | Valor aproximado de S = 9.86960440108900094458022067556158
+Erro = 1e-15 | Número de termos somados da série: 31622776 | Valor aproximado de S = 9.86960440108894765387503866804764
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Exercício 3.1:
+
+Erro = 1e-08 | Número de termos somados da série: 12 | Valor aproximado de S = 0.0000000029566074
+Erro = 1e-09 | Número de termos somados da série: 13 | Valor aproximado de S = 0.0000000006673613
+Erro = 1e-10 | Número de termos somados da série: 15 | Valor aproximado de S = 0.0000000000346478
+Erro = 1e-11 | Número de termos somados da série: 16 | Valor aproximado de S = 0.0000000000079581
+Erro = 1e-12 | Número de termos somados da série: 18 | Valor aproximado de S = 0.0000000000004245
+Erro = 1e-13 | Número de termos somados da série: 19 | Valor aproximado de S = 0.0000000000000995
+Erro = 1e-14 | Número de termos somados da série: 21 | Valor aproximado de S = 0.0000000000000053
+Erro = 1e-15 | Número de termos somados da série: -  | Valor aproximado de S = -
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Exercício 3.2:
+
+Erro = 1e-08 | Número de termos somados da série: 24494   | Valor aproximado de S = 0.0000000099993258
+Erro = 1e-09 | Número de termos somados da série: 77450   | Valor aproximado de S = 0.0000000009999503
+Erro = 1e-10 | Número de termos somados da série: 244692  | Valor aproximado de S = 0.0000000000999982
+Erro = 1e-11 | Número de termos somados da série: 760944  | Valor aproximado de S = 0.0000000000099991
+Erro = 1e-12 | Número de termos somados da série: 2039462 | Valor aproximado de S = 0.0000000000009983
+Erro = 1e-13 | Número de termos somados da série: 3323402 | Valor aproximado de S = 0.0000000000000995
+Erro = 1e-14 | Número de termos somados da série: 3690030 | Valor aproximado de S = 0.0000000000000089
+Erro = 1e-15 | Número de termos somados da série: 3718242 | Valor aproximado de S = 0.0000000000000000
