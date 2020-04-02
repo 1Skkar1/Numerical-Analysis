@@ -34,18 +34,19 @@ def SuccessiveBisectionMethod(f,a,b,eps):
     vfa = f(a)
     error = abs(b - a)
     while True:
-        x = (a + b) / 2
-        i += 1
-        print(i, "ª Iteração | x ->", x)
         if (f(x) == 0):
             error = 0
         if (error <= eps):
             break
+        x = (a + b) / 2
+        i += 1
         if((f(x) * vfa) < 0):
             b = x
         else:
             a = x
         error = error / 2
+        print(i, "ª Iteração | x ->", x)
+        print("[ %0.8f" % a, ", %0.8f" % b, "]")
     print("Valor final de x -> %0.20f" % x, "| Valor de a ->", a, "| Valor de b ->", b)
     print("Erro: %0.20f" % error, "| Nº de iterações:", i)
     return x
@@ -79,13 +80,13 @@ def NewtonMethod(f,df,a,b,eps):
         if (error <= eps):
             break
         x = xn
-    print("Valor de x -> %0.20f" % x, "| Valor de a ->", a, "| Valor de b ->", b)
+    print("Valor final de x -> %0.20f" % x, "| Valor de a ->", a, "| Valor de b ->", b)
     print("Erro: %0.20f" % error, "| Nº de iterações:", i)
     return x
 
 def getApproximation(zero,error):
     if (zero == -500):
         return 
-    print("Valor aproximado -> %0.12f" % zero, "±", error)
+    print("Valor aproximado -> %0.8f" % zero, "±", error)
 
 main()
