@@ -1,0 +1,27 @@
+RECTANGE RULE:
+Com 5 casas decimais: 2.16803
+Time: 0.019557
+Com 7 casas decimais: 2.1801884
+Time: 1.700926
+Com 9 casas decimais: 0.040265318
+Time: 212.122772
+
+---------------------------------------------------
+
+TRAPEZOIDAL RULE:
+Com 5 casas decimais: 2.16623
+Time: 0.000447
+Com 7 casas decimais: 2.1696892
+Time: 0.001567
+Com 9 casas decimais: 2.168345151
+Time: 0.013880
+
+---------------------------------------------------
+
+SIMPSON'S RULE:
+Com 5 casas decimais: 2.15546
+Time: 0.000108
+Com 7 casas decimais: 2.1635022
+Time: 0.000056
+Com 9 casas decimais: 2.167365353
+Time: 0.000161
